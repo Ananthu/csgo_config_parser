@@ -1,0 +1,9 @@
+README.md
+setup.py
+csgo_config_parser/__init__.py
+csgo_config_parser/config_parser.py
+csgo_config_parser/video_config_parser.py
+csgo_config_parser.egg-info/PKG-INFO
+csgo_config_parser.egg-info/SOURCES.txt
+csgo_config_parser.egg-info/dependency_links.txt
+csgo_config_parser.egg-info/top_level.txt
